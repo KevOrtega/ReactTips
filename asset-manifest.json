@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KevOrtega/ReactTips/static/css/main.9024b76d.chunk.css",
+    "main.js": "/KevOrtega/ReactTips/static/js/main.e4096272.chunk.js",
+    "main.js.map": "/KevOrtega/ReactTips/static/js/main.e4096272.chunk.js.map",
+    "runtime-main.js": "/KevOrtega/ReactTips/static/js/runtime-main.9f885d2e.js",
+    "runtime-main.js.map": "/KevOrtega/ReactTips/static/js/runtime-main.9f885d2e.js.map",
+    "static/js/2.0696d96f.chunk.js": "/KevOrtega/ReactTips/static/js/2.0696d96f.chunk.js",
+    "static/js/2.0696d96f.chunk.js.map": "/KevOrtega/ReactTips/static/js/2.0696d96f.chunk.js.map",
+    "index.html": "/KevOrtega/ReactTips/index.html",
+    "precache-manifest.b47ab6284493bd64e58a67858aaa3248.js": "/KevOrtega/ReactTips/precache-manifest.b47ab6284493bd64e58a67858aaa3248.js",
+    "service-worker.js": "/KevOrtega/ReactTips/service-worker.js",
+    "static/css/main.9024b76d.chunk.css.map": "/KevOrtega/ReactTips/static/css/main.9024b76d.chunk.css.map",
+    "static/js/2.0696d96f.chunk.js.LICENSE.txt": "/KevOrtega/ReactTips/static/js/2.0696d96f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f885d2e.js",
+    "static/js/2.0696d96f.chunk.js",
+    "static/css/main.9024b76d.chunk.css",
+    "static/js/main.e4096272.chunk.js"
+  ]
+}
